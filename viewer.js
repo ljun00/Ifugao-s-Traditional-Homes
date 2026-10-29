@@ -27,7 +27,7 @@ import { PLYLoader }     from 'https://esm.sh/three@0.160.0/examples/jsm/loaders
 //
 //  Leave as "" to use drag & drop only.
 // we use locsl repo and host on github for easy access
-const MODEL_URL = "https://media.githubusercontent.com/media/ljun00/thesis3d-viewer/refs/heads/main/models/Bale.ply";
+const MODEL_URL = "https://media.githubusercontent.com/media/ljun00/Ifugao-s-Traditional-Homes/refs/heads/main/models/Bale.ply";
 
 // ═══════════════════════════════════════════════════════════════
 
