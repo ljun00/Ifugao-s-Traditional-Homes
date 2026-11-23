@@ -24,7 +24,7 @@ Click the link below to open the 3D viewer:
 
 ## Project Structure
 
-- `thesis-viewer.html` - The main HTML file containing the viewer interface
+- `index.html` - The main HTML file containing the viewer interface
 - `style.css` - contain the styling
 - `viewer` - contain the javascript logic
 - `models/` - Folder containing the 3D model files
